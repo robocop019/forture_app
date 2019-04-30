@@ -1,0 +1,1 @@
+json.visits @visits + 1
